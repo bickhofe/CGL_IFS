@@ -7,6 +7,8 @@ public class Timeline : MonoBehaviour {
 
 	public PlayableDirector spielberg;
 
+    public PlayableDirector[] MyTimelineComponents;
+
 	public bool bulletTime = false;
 
 	public void Play () {
