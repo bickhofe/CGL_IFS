@@ -57,7 +57,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 10
     m_Resolution: 1
-    m_BakeResolution: 5
+    m_BakeResolution: 20
     m_AtlasSize: 1024
     m_AO: 0
     m_AOMaxDistance: 1
@@ -1421,7 +1421,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 163943660}
   m_LocalRotation: {x: -0, y: -0, z: -0.70710576, w: 0.70710784}
-  m_LocalPosition: {x: -12.71, y: 1.79, z: 0.159}
+  m_LocalPosition: {x: -13.12, y: 1.79, z: 0.159}
   m_LocalScale: {x: 0.3925, y: 0.5, z: 0.32844}
   m_Children: []
   m_Father: {fileID: 0}
